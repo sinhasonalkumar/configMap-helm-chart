@@ -1,5 +1,7 @@
-#filePath: ../config-ext/application.yaml
+# files:
+# - application.yaml
+# - application-local.yaml
 
 files:
-- application.yaml
-- application-local.yaml
+- application.properties
+- application-local.properties
